@@ -15,6 +15,6 @@
 Устройство предназначено для регулировки мощности сроительного фена.
 Собрано на микроконтроллере PIC12F675 и обеспечивает возможность плавно рерулировать температуру на выходе.
 
-![Внешний вид](https://github.com/nva1773/Power-regulator-for-heat-gun/blob/master/Foto/Heat gun 3.jpg)
+![Внешний вид](https://github.com/nva1773/Power-regulator-for-heat-gun/blob/main/Foto/Heat%20gun%203.jpg)
 
-![Схема и плата](https://github.com/nva1773/Power-regulator-for-heat-gun/blob/master/Foto/Heat gun 4.jpg)
+![Схема и плата](https://github.com/nva1773/Power-regulator-for-heat-gun/blob/main/Foto/Heat%20gun%204.jpg)
